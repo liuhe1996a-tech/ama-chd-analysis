@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or processed result set, please cite the associated article."
+title: "AMA-CHD analysis"
+type: software
+authors:
+  - family-names: Liu
+    given-names: He
+  - family-names: Feng
+    given-names: Xibin
+  - family-names: Du
+    given-names: Haoran
+  - family-names: Yang
+    given-names: Miao
+  - family-names: Sun
+    given-names: Le
+repository-code: "https://github.com/liuhe1996a-tech/ama-chd-analysis"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-17

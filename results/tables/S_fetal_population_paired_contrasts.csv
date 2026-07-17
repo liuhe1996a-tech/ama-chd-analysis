@@ -1,0 +1,8 @@
+﻿contrast,n_donors,mean_adjusted_residual_difference,exact_two_sided_sign_flip_p
+BEC-Capillary minus BEC-Arterial,8,0.05948376881553836,0.3203125
+BEC-Venous minus BEC-Arterial,8,0.3161729027889435,0.0078125
+BEC-Proliferating minus BEC-Arterial,8,0.24439738091555363,0.015625
+LEC minus BEC-Arterial,8,0.6517494672743176,0.0078125
+aEndocardial minus BEC-Arterial,8,-0.8318775842261523,0.0234375
+Endocardial minus BEC-Arterial,8,-0.7970840689164043,0.0078125
+vEndocardial minus BEC-Arterial,8,-0.7482260439658177,0.0078125

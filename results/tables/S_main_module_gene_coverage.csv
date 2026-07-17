@@ -1,0 +1,4 @@
+﻿module,n_present,n_total,present_genes,missing_genes
+arterial_maturation,8,8,NOTCH1;DLL4;JAG1;HEY1;HEY2;EFNB2;GJA5;SOX17,
+endothelial_matrix_core,7,7,FN1;VCAN;COL4A1;COL4A2;LAMA4;ITGA5;ITGB1,
+tgfb_plasticity_core,8,8,TGFB1;TGFB2;TGFBR1;TGFBR2;SMAD2;SMAD3;SNAI1;SNAI2,
