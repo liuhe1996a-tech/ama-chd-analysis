@@ -1,9 +1,0 @@
-{
-  "observed_mean": 0.34425046991213354,
-  "exact_one_sided_p": 0.125,
-  "exact_two_sided_p": 0.25,
-  "n_technical_sections": 3,
-  "n_biological_hearts": 1,
-  "analysis": "within-BEC, LV/RV averaged within each section",
-  "interpretation": "technical-section sensitivity analysis from one 13-pcw heart"
-}
