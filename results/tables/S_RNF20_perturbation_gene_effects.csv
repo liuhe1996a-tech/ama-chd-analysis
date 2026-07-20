@@ -1,0 +1,70 @@
+﻿perturbation,context,module,gene,log2fc,adjusted_p_value
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,NOTCH1,-0.128857581497331,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,DLL4,-0.0429423264622573,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,JAG1,-0.0128713997010129,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,HEY1,-0.0198570735067976,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,HEY2,-0.0629972880874803,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,EFNB2,-0.206078068146914,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,GJA5,-0.0422756623909408,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,SOX17,-0.0236514253292319,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,FN1,-0.199085655459971,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,VCAN,-0.0680921749959533,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,COL4A1,-0.342723038982699,6.88963009165521e-05
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,COL4A2,-0.145411352412139,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,LAMA4,-0.20434461155158,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,ITGA5,0.0511149169005035,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,ITGB1,-0.0395372867960786,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,TGFB1,-0.0516243081709279,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,TGFB2,0.0884671011959014,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,TGFBR1,-0.134038071270278,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,TGFBR2,-0.156050094815983,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,SMAD2,-0.114706634384356,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,SMAD3,0.00528222368481057,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,SNAI1,-0.0177989031364062,1.0
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,SNAI2,0.0155207282977692,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,NOTCH1,-0.168007079578654,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,DLL4,-0.0500967098694494,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,JAG1,0.0205309538777682,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,HEY1,-0.041088553948221,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,HEY2,-0.0114153293291309,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,EFNB2,-0.0763955347864065,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,GJA5,0.00746174668846197,1.0
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,SOX17,0.0154881777515484,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,FN1,-0.0839994852644264,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,VCAN,0.0305106409034335,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,COL4A1,-0.432266444964828,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,COL4A2,-0.278431970370879,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,LAMA4,-0.246959542670834,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,ITGA5,-0.100414740914556,1.0
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,ITGB1,0.0890569851761023,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,TGFB1,-0.0279178350812839,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,TGFB2,0.0853914983212434,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,TGFBR1,-0.0671128184837779,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,TGFBR2,0.042310226435462,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,SMAD2,-0.141752638829386,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,SMAD3,0.118844045649505,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,SNAI1,-0.0374204731489471,1.0
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,SNAI2,0.082068189882237,1.0
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,NOTCH1,-0.0302421507112729,0.929607843315225
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,DLL4,-0.150893676107742,0.239296036477704
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,JAG1,0.123025664982008,0.606697722358933
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,HEY1,-0.182039637073478,0.0958803905861407
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,HEY2,-0.0361241228158766,0.972850737665192
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,EFNB2,-0.125060303620172,0.36169552836791
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,GJA5,-0.182314016131278,0.191022694196947
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,SOX17,-0.18313191628974,0.122364316448889
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,FN1,0.50144392152898,1.6858403623404e-16
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,VCAN,-0.283620714123622,0.555422081494952
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,COL4A1,0.150462041655278,0.152721739172257
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,COL4A2,0.117909361805336,0.345741430018434
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,LAMA4,-0.0794846426467305,0.703213232404754
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,ITGA5,0.00252843644917488,0.993105655627406
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,ITGB1,0.153566936488256,0.10197697256501
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,TGFB1,-0.404234328052208,9.12160993346999e-08
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,TGFB2,0.264156860619307,0.107227817126852
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,TGFBR1,-0.0244967726310891,0.958969640970927
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,TGFBR2,0.0363232613372701,0.917755944187862
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,SMAD2,-0.00427113894886426,0.990998582638374
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,SMAD3,-0.0974797772038128,0.646916747995269
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,SNAI1,-0.0895141150107661,0.94594307866405
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,SNAI2,-0.775624544421794,

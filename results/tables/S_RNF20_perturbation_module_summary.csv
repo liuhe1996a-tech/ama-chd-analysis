@@ -1,0 +1,10 @@
+﻿perturbation,context,module,n_genes_present,mean_log2fc,median_log2fc,attenuation_score_negative_mean_log2fc,combined_empirical_p_more_negative,source
+Rnf20 iEC-KO vs control,EC-EndoC,arterial_maturation,8,-0.06744135314024573,-0.042608994426599045,0.06744135314024573,0.0018998100189981002,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+Rnf20 iEC-KO vs control,EC-EndoC,endothelial_matrix_core,7,-0.13543988618541677,-0.145411352412139,0.13543988618541677,0.0018998100189981002,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+Rnf20 iEC-KO vs control,EC-EndoC,tgfb_plasticity_transcript,8,-0.045618494824933735,-0.03471160565366705,0.045618494824933735,0.0018998100189981002,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+Rnf20 iEC-KO vs control,EndoV,arterial_maturation,8,-0.0379402911492604,-0.02625194163867595,0.0379402911492604,0.014298570142985701,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+Rnf20 iEC-KO vs control,EndoV,endothelial_matrix_core,7,-0.1460720797294268,-0.100414740914556,0.1460720797294268,0.014298570142985701,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+Rnf20 iEC-KO vs control,EndoV,tgfb_plasticity_transcript,8,0.006801274343131565,0.007196195677089049,-0.006801274343131565,0.014298570142985701,"Dou et al., Nature Communications 2025, Supplementary Data 4"
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,arterial_maturation,8,-0.09584751972094394,-0.137976989863957,0.09584751972094394,0.13608639136086392,"Dou et al., Nature Communications 2025, Supplementary Data 5"
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,endothelial_matrix_core,7,0.08040076302238176,0.117909361805336,-0.08040076302238176,0.13608639136086392,"Dou et al., Nature Communications 2025, Supplementary Data 5"
+shRnf20 PECAM1-positive EC vs control,sorted differentiated EC bulk RNA-seq,tgfb_plasticity_transcript,8,-0.13689256928899465,-0.0570054438209276,0.13689256928899465,0.13608639136086392,"Dou et al., Nature Communications 2025, Supplementary Data 5"

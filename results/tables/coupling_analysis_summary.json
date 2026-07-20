@@ -1,0 +1,59 @@
+{
+  "source_validation": {
+    "n_cells": 37767,
+    "n_gene_rows": 29266,
+    "n_target_genes": 23,
+    "cell_order_all_matched": true,
+    "max_target_patient_count_difference_vs_pseudobulk": 0.0,
+    "module_gene_counts": {
+      "arterial_maturation": 8,
+      "endothelial_matrix_core": 7,
+      "tgfb_plasticity_transcript": 8
+    },
+    "module_gene_overlap_count": 0
+  },
+  "primary_all_endothelial_spearman": {
+    "subset": "all_endothelial_structural_balanced",
+    "method": "spearman",
+    "pair": "Mean three-pair coupling",
+    "sensitivity": "all_structural_individuals",
+    "n_chd": 6,
+    "n_donor": 4,
+    "difference_mean_fisher_z_chd_minus_donor": 0.022076829473654313,
+    "difference_on_correlation_scale": 0.022075459416978364,
+    "mean_fisher_z_chd": 0.015669701431813596,
+    "mean_fisher_z_donor": -0.006407128041840717,
+    "mean_correlation_chd": 0.01566841904732125,
+    "mean_correlation_donor": -0.006407040369657114,
+    "exact_p_two_sided": 0.15714285714285714,
+    "exact_p_lower_in_chd": 0.9285714285714286,
+    "n_label_permutations": 210,
+    "fdr_q_three_pairs": null
+  },
+  "clean_sensitivity_all_endothelial_spearman": {
+    "subset": "all_endothelial_structural_balanced",
+    "method": "spearman",
+    "pair": "Mean three-pair coupling",
+    "sensitivity": "high_contamination_excluded",
+    "n_chd": 3,
+    "n_donor": 4,
+    "difference_mean_fisher_z_chd_minus_donor": 0.01853252495742686,
+    "difference_on_correlation_scale": 0.018531843073683132,
+    "mean_fisher_z_chd": 0.012125396915586145,
+    "mean_fisher_z_donor": -0.006407128041840717,
+    "mean_correlation_chd": 0.012124802704026017,
+    "mean_correlation_donor": -0.006407040369657114,
+    "exact_p_two_sided": 0.2571428571428571,
+    "exact_p_lower_in_chd": 0.8857142857142857,
+    "n_label_permutations": 35,
+    "fdr_q_three_pairs": null
+  },
+  "equal_cell_downsampling_all_endothelial_spearman": {
+    "subset": "all_endothelial_structural_balanced",
+    "n_chd": 6,
+    "n_donor": 4,
+    "difference_mean_fisher_z_chd_minus_donor": 0.020972745097146715,
+    "interpretation": "Directional cell-count sensitivity only; no inferential P value was assigned."
+  },
+  "interpretation_rule": "A lower CHD coupling estimate with concordant sensitivity analyses would support exploratory uncoupling. A null, unstable, or positive estimate does not support recasting AMA as coupling failure. All group summaries use the biological individual as the permutation and inferential unit; age and region confounding limit label exchangeability and disease-effect interpretation."
+}

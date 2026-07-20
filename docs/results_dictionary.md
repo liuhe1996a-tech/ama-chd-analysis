@@ -1,0 +1,26 @@
+# Result dictionary
+
+- `S_discovery_sample_metadata.csv`: one row per biological individual, with age, sex, region, endothelial yield, and contamination flags.
+- `S_discovery_patient_module_scores.csv`: donor-standardized component and AMA scores.
+- `S_discovery_model_specification_curve.csv`: disease coefficients across seven prespecified covariate specifications plus the unadjusted Welch contrast.
+- `S_discovery_leave_one_individual_out.csv`: full-model estimates after omitting each biological individual in turn.
+- `S_discovery_influence_diagnostics.csv`: leverage, residual, Cook's distance, and disease-coefficient DFBETA for each individual.
+- `S_discovery_patient_module_coupling.csv`: individual-level residualized intermodule correlations for the balanced structural-cohort and pooled sensitivity fits.
+- `S_discovery_coupling_group_contrasts.csv`: CHD-minus-donor contrasts in mean Fisher-z coupling with complete-label descriptive permutation summaries.
+- `S_discovery_coupling_equal_cell_downsampling.csv`: directional equal-cell downsampling sensitivity results; these are not inferential *P* values.
+- `S_discovery_component_PCA.csv`: individual-level principal-component summary of the three module scores.
+- `coupling_analysis_summary.json`: machine-readable inputs, validation checks, primary estimates, and interpretation limits for the coupling analysis.
+- `S_module_definition_sensitivity.csv`: adjusted estimates across alternative module definitions.
+- `S_leave_one_gene_out.csv` and `S_leave_one_module_out.csv`: score-definition stability checks.
+- `S_expression_matched_permutation_summary.csv`: patient-score null result; the full null distribution is gzip-compressed.
+- `S_competitive_gene_set_permutation_summary.csv`: gene-level competitive null results; the full null distribution is gzip-compressed.
+- `S_discovery_disease_specificity_effects.csv`: CHD, TOF, HLHS, and cardiomyopathy contrasts.
+- `S_external_main_effects.csv`: cohort-specific module and AMA estimates with confidence intervals and FDR values.
+- `S_external_meta_hedges_g_inputs.csv` and `S_external_meta_reml_hk.csv`: exploratory meta-analysis inputs and pooled result.
+- `S_bulk_composition_marker_scores.csv`: sample-level AMA and five lineage marker scores in the three ventricular whole-tissue contrasts.
+- `S_bulk_composition_sensitivity_effects.csv`: unadjusted, single-marker-adjusted, and five-marker-adjusted disease coefficients.
+- `S_bulk_composition_gene_coverage.csv`: module and marker gene coverage by bulk cohort.
+- `S_RNF20_perturbation_module_summary.csv`: frozen-module mean log2 fold changes and expression-matched empirical tests in three RNF20-loss endothelial contexts.
+- `S_RNF20_perturbation_gene_effects.csv`: gene-level effects contributing to the RNF20 module summaries.
+- `S_fetal_*`: leave-arterial-out developmental reference-state analyses.
+- `S_spatial_*`: within-BEC outer-inner spatial sensitivity analyses.

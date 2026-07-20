@@ -1,0 +1,93 @@
+{
+  "unadjusted_welch": {
+    "delta_case_minus_control": -0.24817574987589847,
+    "p_value": 0.7072776015345498,
+    "n_case": 6,
+    "n_control": 4
+  },
+  "full_adjusted": {
+    "order": 7,
+    "specification": "Full: CHD + age + sex + contamination",
+    "covariates": "age_years;sex_male;log10_cm_fraction",
+    "beta": 2.1217763615983865,
+    "se": 1.0192291884879427,
+    "ci_low": -0.49823567667906055,
+    "ci_high": 4.7417883998758334,
+    "p_value": 0.09185789369132163,
+    "t_value": 2.081746073958209,
+    "n": 10,
+    "rank": 5,
+    "df_resid": 5,
+    "condition_number": 48.881751657401594,
+    "positive_direction": true
+  },
+  "model_specification_positive_count": 5,
+  "model_specification_total": 7,
+  "loio_all_positive": true,
+  "loio_beta_min": 1.3218365944827593,
+  "loio_beta_max": 4.620321991801077,
+  "max_cooks_distance": 2.3508331723445646,
+  "max_cooks_patient": "UK2",
+  "bulk_composition_full_models": [
+    {
+      "contrast": "GSE36761_TOF_RV_vs_healthy_RV",
+      "dataset": "GSE36761",
+      "model": "adjusted_all_five_marker_scores",
+      "composition_covariates": "endothelial_abundance;fibroblast;cardiomyocyte;immune;mural_pericyte",
+      "beta": -0.4412171617723768,
+      "se": 0.33806852062329285,
+      "ci_low": -1.1488027074751601,
+      "ci_high": 0.2663683839304065,
+      "p_value": 0.20744020829421317,
+      "t_value": -1.305111641151652,
+      "n": 26,
+      "rank": 7,
+      "df_resid": 19,
+      "condition_number": 42.986606217197114,
+      "disease_vif": 3.208216910901545,
+      "fdr_within_model_family": 0.31116031244131975
+    },
+    {
+      "contrast": "GSE217772_TOF_RV_vs_healthy_RV",
+      "dataset": "GSE217772",
+      "model": "adjusted_all_five_marker_scores",
+      "composition_covariates": "endothelial_abundance;fibroblast;cardiomyocyte;immune;mural_pericyte",
+      "beta": -0.5462156439828157,
+      "se": 0.5966676770749365,
+      "ci_low": -2.4450784883721597,
+      "ci_high": 1.3526472004065284,
+      "p_value": 0.4274636066676283,
+      "t_value": -0.9154436631468736,
+      "n": 10,
+      "rank": 7,
+      "df_resid": 3,
+      "condition_number": 14.154251836127488,
+      "disease_vif": 6.473483966922992,
+      "fdr_within_model_family": 0.4274636066676283
+    },
+    {
+      "contrast": "GSE23959_HLHS_ventricle_vs_healthy_RV",
+      "dataset": "GSE23959",
+      "model": "adjusted_all_five_marker_scores",
+      "composition_covariates": "endothelial_abundance;fibroblast;cardiomyocyte;immune;mural_pericyte",
+      "beta": 1.3107842451975245,
+      "se": 0.45692532234033595,
+      "ci_low": 0.04215617054477483,
+      "ci_high": 2.579412319850274,
+      "p_value": 0.04552796005014961,
+      "t_value": 2.868705631116677,
+      "n": 11,
+      "rank": 7,
+      "df_resid": 4,
+      "condition_number": 14.060066363018041,
+      "disease_vif": 4.590726440208835,
+      "fdr_within_model_family": 0.13658388015044884
+    }
+  ],
+  "rnf20_combined_competitive_p_by_context": {
+    "EC-EndoC": 0.0018998100189981002,
+    "EndoV": 0.014298570142985701,
+    "sorted differentiated EC bulk RNA-seq": 0.13608639136086392
+  },
+  "interpretation": "The discovery coefficient is sensitive to covariate specification and individual omission. Bulk marker-score adjustment is a tissue-composition sensitivity analysis, not cell deconvolution. RNF20-loss analyses test frozen transcript modules and do not equate component abundance with TGF-beta pathway activity."
+}

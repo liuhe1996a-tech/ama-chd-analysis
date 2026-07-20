@@ -1,0 +1,2 @@
+﻿k,pooled_hedges_g,hk_modified_se,ci95_low,ci95_high,p_value,tau2_reml,cochran_q,i2_percent,prediction_interval_low,prediction_interval_high,hartung_knapp_scale,modified_hk_scale,method,interpretation
+3,0.807898147817052,0.3607939623337742,-0.7444729790954859,2.36026927472959,0.15450554659924895,0.0,1.2503828007345716,0.0,-3.7764238051715835,5.392220100805687,0.6251914003672858,1.0,Hedges g; REML random effects; modified Hartung-Knapp CI; t-based prediction interval,exploratory because only three cohorts were available

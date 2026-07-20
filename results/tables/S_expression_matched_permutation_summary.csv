@@ -1,0 +1,2 @@
+﻿n_permutations,observed_adjusted_beta,permutation_mean,permutation_sd,empirical_p_one_sided,empirical_p_two_sided,matching,seed
+10000,2.1217763615983913,2.0839106692851117,0.43882108284345067,0.4390560943905609,0.4390560943905609,20 expression-quantile bins; module sizes preserved; target genes excluded,203274

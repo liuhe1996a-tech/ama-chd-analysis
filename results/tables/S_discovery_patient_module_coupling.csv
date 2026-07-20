@@ -1,0 +1,369 @@
+﻿subset,patient_id,n_cells,pair,method,correlation,fisher_z,condition,primary_inclusion,high_contamination,age_years,region
+all_endothelial,13_198,5996,Arterial–matrix,pearson,-0.06881931432508956,-0.06892826911160936,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Arterial–matrix,spearman,-0.05235951223632042,-0.052407439287654685,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Arterial–plasticity transcripts,pearson,0.06171565752218471,0.061794191733436823,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Arterial–plasticity transcripts,spearman,0.05719858787761509,0.057261089076404134,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Matrix–plasticity transcripts,pearson,-0.08091454852919552,-0.08109183242023729,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Matrix–plasticity transcripts,spearman,-0.0817286831610455,-0.08191138698104669,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Mean three-pair coupling,pearson,-0.02940016133612687,-0.029408636599469944,Donor,included,False,11.0,LV;RV
+all_endothelial,13_198,5996,Mean three-pair coupling,spearman,-0.025680264989769424,-0.025685912397432415,Donor,included,False,11.0,LV;RV
+all_endothelial,13_235,2118,Arterial–matrix,pearson,-0.004322846522783398,-0.004322873450099271,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Arterial–matrix,spearman,-3.135335252354189e-05,-3.135335253381568e-05,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Arterial–plasticity transcripts,pearson,0.028343607940225654,0.02835120164218919,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Arterial–plasticity transcripts,spearman,0.02780208030798042,0.02780924689047668,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Matrix–plasticity transcripts,pearson,-0.0007696050630993681,-0.0007696052150430508,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Matrix–plasticity transcripts,spearman,-0.005327485198758231,-0.005327535601353185,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Mean three-pair coupling,pearson,0.00775275232658515,0.007752907659015622,Donor,included,False,11.0,RV
+all_endothelial,13_235,2118,Mean three-pair coupling,spearman,0.007483312952395722,0.007483452645529894,Donor,included,False,11.0,RV
+all_endothelial,P26,124,Arterial–matrix,pearson,-0.188283650799548,-0.1905571396166278,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Arterial–matrix,spearman,-0.11734382376081824,-0.11788690915221987,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Arterial–plasticity transcripts,pearson,0.10619851827176739,0.1066004819004056,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Arterial–plasticity transcripts,spearman,0.11023131392604248,0.11068106893129262,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Matrix–plasticity transcripts,pearson,0.07186042899880582,0.07198450753093795,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Matrix–plasticity transcripts,spearman,0.06413847364280094,0.06422664111381703,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Mean three-pair coupling,pearson,-0.0039906955434176,-0.003990716728428083,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P26,124,Mean three-pair coupling,spearman,0.01900464512437662,0.019006933630963257,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial,P28,693,Arterial–matrix,pearson,0.02066830072656506,0.02067124450008021,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Arterial–matrix,spearman,0.04962407229569196,0.049664866483055806,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Arterial–plasticity transcripts,pearson,0.12676197133552947,0.12744755576271993,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Arterial–plasticity transcripts,spearman,0.13421316014143053,0.13502785180770424,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Matrix–plasticity transcripts,pearson,0.05740522722869992,0.05746840916553393,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Matrix–plasticity transcripts,spearman,0.04152894020629024,0.04155283927709914,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Mean three-pair coupling,pearson,0.06842199477564685,0.06852906980944469,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P28,693,Mean three-pair coupling,spearman,0.07527253699773702,0.07541518585595307,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial,P33,1058,Arterial–matrix,pearson,-0.0715766147938433,-0.07169922596505451,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Arterial–matrix,spearman,-0.06452151128683306,-0.06461127049282461,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Arterial–plasticity transcripts,pearson,0.06526999112250532,0.06536291588758632,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Arterial–plasticity transcripts,spearman,0.045571815878193214,0.045603402950661606,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Matrix–plasticity transcripts,pearson,0.022094505207983353,0.02209810153202902,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Matrix–plasticity transcripts,spearman,0.021454804702107887,0.02145809755561877,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Mean three-pair coupling,pearson,0.005253882142597265,0.005253930484853608,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P33,1058,Mean three-pair coupling,spearman,0.0008167431562103968,0.0008167433378185873,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial,P36,5616,Arterial–matrix,pearson,-0.03748137996936043,-0.037498946732561614,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Arterial–matrix,spearman,-0.01609542619190693,-0.01609681631641766,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Arterial–plasticity transcripts,pearson,0.20001371359013304,0.20274683908461738,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Arterial–plasticity transcripts,spearman,0.15957416040581712,0.16094969916232196,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Matrix–plasticity transcripts,pearson,-0.05201775328283236,-0.052064746955663155,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Matrix–plasticity transcripts,spearman,-0.03698888417264178,-0.037005767154497465,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Mean three-pair coupling,pearson,0.03770982501996413,0.03772771513213088,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P36,5616,Mean three-pair coupling,spearman,0.03593356051744237,0.03594903856380228,Cardiomyopathy,included,False,17.285592060232716,LV
+all_endothelial,P40,5278,Arterial–matrix,pearson,-0.022806003275555355,-0.02280995841546695,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Arterial–matrix,spearman,-0.016377934175108376,-0.01637939879865909,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Arterial–plasticity transcripts,pearson,0.020674050010357208,0.02067699624157708,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Arterial–plasticity transcripts,spearman,0.015344867672219167,0.015346072235307241,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Matrix–plasticity transcripts,pearson,0.0027262048493607574,0.0027262116032842993,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Matrix–plasticity transcripts,spearman,0.004857951974038994,0.004857990189978954,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Mean three-pair coupling,pearson,0.00019774980722047524,0.00019774980979814314,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P40,5278,Mean three-pair coupling,spearman,0.0012748871848344487,0.0012748878755423684,HLHS,included,False,4.388090349075975,LV
+all_endothelial,P64,2774,Arterial–matrix,pearson,-0.00702656034251827,-0.007026675985678573,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Arterial–matrix,spearman,-0.004165550217642296,-0.004165574311169855,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Arterial–plasticity transcripts,pearson,-0.007984118031773329,-0.00798428769049969,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Arterial–plasticity transcripts,spearman,-0.0061821634288549915,-0.00618224218966057,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Matrix–plasticity transcripts,pearson,0.03867336124139599,0.03869265889348738,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Matrix–plasticity transcripts,spearman,0.031662679797950614,0.03167326704617429,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Mean three-pair coupling,pearson,0.007893734444029651,0.007893898405769706,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P64,2774,Mean three-pair coupling,spearman,0.007108363785702764,0.0071084835151146225,HLHS,included,False,3.2965434633812456,RV
+all_endothelial,P75,5129,Arterial–matrix,pearson,0.013431681788927115,0.013432489613282054,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Arterial–matrix,spearman,0.008526344050139672,0.008526550676748745,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Arterial–plasticity transcripts,pearson,0.03370881719476657,0.03372159350696602,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Arterial–plasticity transcripts,spearman,0.033886196219861595,0.033899175379233225,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Matrix–plasticity transcripts,pearson,0.022830150537195965,0.022834118256283405,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Matrix–plasticity transcripts,spearman,0.018305382542539612,0.018307427585805752,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Mean three-pair coupling,pearson,0.02332516895302829,0.023329400458843824,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P75,5129,Mean three-pair coupling,spearman,0.020241619380739713,0.020244384547262573,Cardiomyopathy,included,False,16.23511293634497,LV
+all_endothelial,P8,1166,Arterial–matrix,pearson,-0.0972554138115774,-0.09756379971019645,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Arterial–matrix,spearman,-0.06414403971463951,-0.06423223017963582,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Arterial–plasticity transcripts,pearson,0.006781876457675919,0.0067819804354109685,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Arterial–plasticity transcripts,spearman,0.011978413656224023,0.011978986602704257,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Matrix–plasticity transcripts,pearson,0.13786479549270753,0.13874834530290986,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Matrix–plasticity transcripts,spearman,0.13430500506885032,0.13512138267597876,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Mean three-pair coupling,pearson,0.01598747966980441,0.015988842009374792,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P8,1166,Mean three-pair coupling,spearman,0.027615689668456636,0.027622713033015733,HLHS,included,True,0.1748802190280629,RV
+all_endothelial,P86,6736,Arterial–matrix,pearson,0.005411672966583249,0.0054117257966315975,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Arterial–matrix,spearman,0.006339890136741552,0.006339975081075514,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Arterial–plasticity transcripts,pearson,0.039679738354513855,0.03970058305627207,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Arterial–plasticity transcripts,spearman,0.03279818346770246,0.03280995162733296,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Matrix–plasticity transcripts,pearson,-0.010711152132404901,-0.010711561786410261,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Matrix–plasticity transcripts,spearman,-0.010160688625018992,-0.01016103830846717,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Mean three-pair coupling,pearson,0.011466413119755587,0.011466915688831134,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,P86,6736,Mean three-pair coupling,spearman,0.009662662058420604,0.009662962799980435,Cardiomyopathy,included,False,11.282854209445585,LV
+all_endothelial,UK1,460,Arterial–matrix,pearson,-0.20989721813422244,-0.2130638253331256,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Arterial–matrix,spearman,-0.18253225902892206,-0.1846009794748644,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Arterial–plasticity transcripts,pearson,-0.013229149009923176,-0.013229920837118781,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Arterial–plasticity transcripts,spearman,0.012711657016542983,0.012712341759151004,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Matrix–plasticity transcripts,pearson,0.06885187790472037,0.06896098772312566,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Matrix–plasticity transcripts,spearman,0.05498345208749036,0.05503896110153471,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Mean three-pair coupling,pearson,-0.05239622476862156,-0.05244425281570623,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK1,460,Mean three-pair coupling,spearman,-0.03893020726627924,-0.03894989220472623,Donor,included,False,9.599760438056126,LV
+all_endothelial,UK2,619,Arterial–matrix,pearson,-0.0573409802698179,-0.057403950028225376,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Arterial–matrix,spearman,-0.04447547062511036,-0.044504830639458606,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Arterial–plasticity transcripts,pearson,0.05254667496432798,0.05259511838278322,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Arterial–plasticity transcripts,spearman,0.045068346701462765,0.045098897554625546,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Matrix–plasticity transcripts,pearson,-0.04485564403360973,-0.044885764019251026,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Matrix–plasticity transcripts,spearman,-0.044802873005215876,-0.04483288672533438,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Mean three-pair coupling,pearson,-0.01656335028376933,-0.016564865221564393,Donor,included,False,3.758213552361396,LV
+all_endothelial,UK2,619,Mean three-pair coupling,spearman,-0.014745204491319372,-0.014746273270055813,Donor,included,False,3.758213552361396,LV
+blood_endothelial,13_198,5548,Arterial–matrix,pearson,-0.07379027241843777,-0.07392464112558063,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Arterial–matrix,spearman,-0.056707961631452385,-0.056768866208980966,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Arterial–plasticity transcripts,pearson,0.07635978237816536,0.07650871706246387,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Arterial–plasticity transcripts,spearman,0.07050448678663232,0.07062165963402894,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Matrix–plasticity transcripts,pearson,-0.09106090985464194,-0.09131386463206462,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Matrix–plasticity transcripts,spearman,-0.09187636363270307,-0.09213619852319559,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Mean three-pair coupling,pearson,-0.029567974958954486,-0.029576596231727124,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_198,5548,Mean three-pair coupling,spearman,-0.02608854721918372,-0.0260944683660492,Donor,included,False,11.0,LV;RV
+blood_endothelial,13_235,2034,Arterial–matrix,pearson,-0.0037619752188386905,-0.00376199296605425,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Arterial–matrix,spearman,0.0005538035416718561,0.0005538035982887463,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Arterial–plasticity transcripts,pearson,0.03945046800602674,0.03947095324486541,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Arterial–plasticity transcripts,spearman,0.03864716375979646,0.03866642219810435,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Matrix–plasticity transcripts,pearson,0.004736503412116358,0.004736538832899147,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Matrix–plasticity transcripts,spearman,-0.0034276251480000247,-0.0034276385713764256,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Mean three-pair coupling,pearson,0.013481016278093758,0.013481833037236768,Donor,included,False,11.0,RV
+blood_endothelial,13_235,2034,Mean three-pair coupling,spearman,0.011930296339133105,0.011930862408338891,Donor,included,False,11.0,RV
+blood_endothelial,P26,105,Arterial–matrix,pearson,-0.18204154196801442,-0.1840933961631437,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Arterial–matrix,spearman,-0.1309454696247149,-0.13170169331791245,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Arterial–plasticity transcripts,pearson,0.10494787463586944,0.10533574167736297,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Arterial–plasticity transcripts,spearman,0.11538461538461538,0.11590080702866216,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Matrix–plasticity transcripts,pearson,0.08619052249715944,0.08640490979160514,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Matrix–plasticity transcripts,spearman,0.08638814016172507,0.08660400992631766,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Mean three-pair coupling,pearson,0.002549079580777807,0.0025490851019414665,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P26,105,Mean three-pair coupling,spearman,0.023596660189855154,0.02360104121235579,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial,P28,642,Arterial–matrix,pearson,0.04700684649389641,0.047041515261664446,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Arterial–matrix,spearman,0.05461864613448798,0.05467305627552368,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Arterial–plasticity transcripts,pearson,0.14740328797036012,0.14848500491386268,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Arterial–plasticity transcripts,spearman,0.15842609315192216,0.15977185463053903,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Matrix–plasticity transcripts,pearson,0.048530942211135825,0.04856909701611073,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Matrix–plasticity transcripts,spearman,0.0289863317618125,0.02899445403393718,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Mean three-pair coupling,pearson,0.08118612600553773,0.08136520573054595,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P28,642,Mean three-pair coupling,spearman,0.0809688132262015,0.08114645497999996,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial,P33,949,Arterial–matrix,pearson,-0.03448717015896006,-0.03450085253425012,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Arterial–matrix,spearman,-0.030342258655803055,-0.0303515753631997,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Arterial–plasticity transcripts,pearson,0.10005046602714239,0.10038632377596644,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Arterial–plasticity transcripts,spearman,0.0794962122196021,0.07966431276963556,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Matrix–plasticity transcripts,pearson,-0.03285411936889523,-0.03286594786763725,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Matrix–plasticity transcripts,spearman,-0.03303979293045942,-0.033051823197765416,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Mean three-pair coupling,pearson,0.011006063358320314,0.011006507791359687,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P33,949,Mean three-pair coupling,spearman,0.005420251654532069,0.005420304736223483,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial,P36,5370,Arterial–matrix,pearson,-0.03888204209264196,-0.03890165401357903,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Arterial–matrix,spearman,-0.015956032329878123,-0.01595738664527722,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Arterial–plasticity transcripts,pearson,0.22035590919211948,0.22403015115742,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Arterial–plasticity transcripts,spearman,0.1797908451023386,0.1817665385765965,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Matrix–plasticity transcripts,pearson,-0.052687031014001344,-0.05273586409186115,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Matrix–plasticity transcripts,spearman,-0.038877303592698094,-0.03889690833993744,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Mean three-pair coupling,pearson,0.044102251183938776,0.04413087768399327,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P36,5370,Mean three-pair coupling,spearman,0.04227886295740432,0.04230408119712728,Cardiomyopathy,included,False,17.285592060232716,LV
+blood_endothelial,P40,5100,Arterial–matrix,pearson,-0.018039715980592327,-0.018041673259173493,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Arterial–matrix,spearman,-0.012229314309299431,-0.012229924020312649,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Arterial–plasticity transcripts,pearson,0.02132886585794329,0.02133210105395051,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Arterial–plasticity transcripts,spearman,0.01602033071557506,0.01602170147127747,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Matrix–plasticity transcripts,pearson,-0.0028179036603383618,-0.002817911118971356,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Matrix–plasticity transcripts,spearman,-7.834602377871131e-05,-7.834602393900987e-05,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Mean three-pair coupling,pearson,0.00015750555729942102,0.00015750555860188703,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P40,5100,Mean three-pair coupling,spearman,0.0012378098434949964,0.0012378104756752709,HLHS,included,False,4.388090349075975,LV
+blood_endothelial,P64,2653,Arterial–matrix,pearson,0.007006020619899846,0.007006135251873361,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Arterial–matrix,spearman,0.009032214187362322,0.009032459818085804,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Arterial–plasticity transcripts,pearson,0.0008489584001382124,0.0008489586040949999,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Arterial–plasticity transcripts,spearman,0.0018054499545485186,0.0018054519162637255,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Matrix–plasticity transcripts,pearson,0.03227693442443532,0.03228815014475879,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Matrix–plasticity transcripts,spearman,0.02389940209952722,0.023903953957739667,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Mean three-pair coupling,pearson,0.013380282748346668,0.013381081333575717,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P64,2653,Mean three-pair coupling,spearman,0.011580104229630305,0.011580621897363065,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial,P75,5028,Arterial–matrix,pearson,0.014085241965497031,0.014086173552417385,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Arterial–matrix,spearman,0.010656165972802572,0.010656569349925982,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Arterial–plasticity transcripts,pearson,0.03777657581487381,0.037794561152508885,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Arterial–plasticity transcripts,spearman,0.036152339455187026,0.036168102086586704,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Matrix–plasticity transcripts,pearson,0.01685489309139319,0.01685648945120935,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Matrix–plasticity transcripts,spearman,0.011221419057704561,0.011221890094574421,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Mean three-pair coupling,pearson,0.022908399387061962,0.022912408052045207,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P75,5028,Mean three-pair coupling,spearman,0.019346439609225996,0.019348853843695703,Cardiomyopathy,included,False,16.23511293634497,LV
+blood_endothelial,P8,1096,Arterial–matrix,pearson,-0.106232972509199,-0.10663532927845272,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Arterial–matrix,spearman,-0.07552168210708556,-0.07566575538527667,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Arterial–plasticity transcripts,pearson,0.011661360285534,0.011661888927726531,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Arterial–plasticity transcripts,spearman,0.02003387628420385,0.0200365571699729,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Matrix–plasticity transcripts,pearson,0.14669707748333696,0.14776318595701549,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Matrix–plasticity transcripts,spearman,0.1437401474073194,0.14474255303806424,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Mean three-pair coupling,pearson,0.01759476589361001,0.0175965818687631,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P8,1096,Mean three-pair coupling,spearman,0.029695718071696436,0.029704451607586824,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial,P86,6036,Arterial–matrix,pearson,0.0019433015986658605,0.0019433040449131258,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Arterial–matrix,spearman,0.000697885748105536,0.000697885861406045,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Arterial–plasticity transcripts,pearson,0.046427045637938646,0.04646044622176654,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Arterial–plasticity transcripts,spearman,0.040507228409272615,0.040529405480240796,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Matrix–plasticity transcripts,pearson,0.0005099542007540286,0.0005099542449591242,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Matrix–plasticity transcripts,spearman,-0.0016084611552545159,-0.0016084625423653074,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Mean three-pair coupling,pearson,0.016303123527772245,0.016304568170546263,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,P86,6036,Mean three-pair coupling,spearman,0.013205508569886691,0.013206276266427177,Cardiomyopathy,included,False,11.282854209445585,LV
+blood_endothelial,UK1,427,Arterial–matrix,pearson,-0.2020242254491626,-0.20484201494630022,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Arterial–matrix,spearman,-0.1687770255669146,-0.1704075621669628,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Arterial–plasticity transcripts,pearson,-0.0029061946069633923,-0.002906202788879527,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Arterial–plasticity transcripts,spearman,0.021741449154556575,0.02174487578608178,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Matrix–plasticity transcripts,pearson,0.014957771508869724,0.01495888718395592,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Matrix–plasticity transcripts,spearman,0.010094734178011225,0.010095077095758392,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Mean three-pair coupling,pearson,-0.06417479260334615,-0.06426311018374127,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK1,427,Mean three-pair coupling,spearman,-0.046156383765977284,-0.046189203095040876,Donor,included,False,9.599760438056126,LV
+blood_endothelial,UK2,573,Arterial–matrix,pearson,-0.0445338919156375,-0.044563367872748574,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Arterial–matrix,spearman,-0.037900804341871895,-0.03791896780093535,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Arterial–plasticity transcripts,pearson,0.04255096618576241,0.042576674829933686,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Arterial–plasticity transcripts,spearman,0.03201848591964797,0.03202943426205885,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Matrix–plasticity transcripts,pearson,-0.03340940854230148,-0.03342184727383044,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Matrix–plasticity transcripts,spearman,-0.03260097073147769,-0.03261252779259358,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Mean three-pair coupling,pearson,-0.011802298728940105,-0.01180284677221511,Donor,included,False,3.758213552361396,LV
+blood_endothelial,UK2,573,Mean three-pair coupling,spearman,-0.012833315850841407,-0.012834020443823362,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,13_198,5996,Arterial–matrix,pearson,-0.14099422771836478,-0.14193982457563692,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Arterial–matrix,spearman,-0.1090982349552978,-0.10953419713562472,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Arterial–plasticity transcripts,pearson,0.12427691987619946,0.12492272386295357,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Arterial–plasticity transcripts,spearman,0.11600304200275711,0.11652762364716517,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Matrix–plasticity transcripts,pearson,-0.07737558680294386,-0.0775305592759287,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Matrix–plasticity transcripts,spearman,-0.0766365710556069,-0.07678713503564112,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Mean three-pair coupling,pearson,-0.03150545641030234,-0.03151588666287068,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_198,5996,Mean three-pair coupling,spearman,-0.02326037317647953,-0.02326456950803356,Donor,included,False,11.0,LV;RV
+all_endothelial_structural_balanced,13_235,2118,Arterial–matrix,pearson,-0.002339868393182696,-0.002339872663444138,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Arterial–matrix,spearman,0.00449139664013069,0.004491426841611067,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Arterial–plasticity transcripts,pearson,0.06572814268414731,0.06582304145488724,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Arterial–plasticity transcripts,spearman,0.05877775404382578,0.05884558364208571,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Matrix–plasticity transcripts,pearson,0.0037044479278980275,0.003704464873336249,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Matrix–plasticity transcripts,spearman,-0.0008249406859191668,-0.0008249408730507504,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Mean three-pair coupling,pearson,0.022392134232611667,0.022395877888259783,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,13_235,2118,Mean three-pair coupling,spearman,0.020834341232264065,0.02083735653688201,Donor,included,False,11.0,RV
+all_endothelial_structural_balanced,P26,124,Arterial–matrix,pearson,-0.19487307958135514,-0.19739765953128563,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Arterial–matrix,spearman,-0.12763493312352478,-0.1283348739273218,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Arterial–plasticity transcripts,pearson,0.07246390115702407,0.07259113866561841,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Arterial–plasticity transcripts,spearman,0.06678206136900078,0.06688160706571558,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Matrix–plasticity transcripts,pearson,0.09781393635845745,0.09812768653490421,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Matrix–plasticity transcripts,spearman,0.08929032258064515,0.08952876105361433,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Mean three-pair coupling,pearson,-0.008892710353071378,-0.008892944776921005,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P26,124,Mean three-pair coupling,spearman,0.009358224863184536,0.009358498064002707,TOF,included,False,0.2582135523613963,RVOT
+all_endothelial_structural_balanced,P28,693,Arterial–matrix,pearson,-0.024278110579516517,-0.02428288232234154,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Arterial–matrix,spearman,-0.007436994493681872,-0.007437131608861717,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Arterial–plasticity transcripts,pearson,0.10800745295201894,0.10843040827893514,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Arterial–plasticity transcripts,spearman,0.12367030281108009,0.12430663787102622,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Matrix–plasticity transcripts,pearson,0.04843642599639459,0.0484743581015992,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Matrix–plasticity transcripts,spearman,0.037650677020336025,0.03766848303467543,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Mean three-pair coupling,pearson,0.044178519297102314,0.04420729468606427,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P28,693,Mean three-pair coupling,spearman,0.05146714752392932,0.05151266309894664,TOF,included,True,0.6913073237508556,RVOT
+all_endothelial_structural_balanced,P33,1058,Arterial–matrix,pearson,-0.06423821999946788,-0.06432680014016659,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Arterial–matrix,spearman,-0.06433397551433126,-0.06442295302636483,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Arterial–plasticity transcripts,pearson,0.04548226073834459,0.04551366180326967,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Arterial–plasticity transcripts,spearman,0.03321314970073944,0.033225370412792166,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Matrix–plasticity transcripts,pearson,0.009638183020581727,0.009638481482179169,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Matrix–plasticity transcripts,spearman,0.010359988584312078,0.01036035925184257,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Mean three-pair coupling,pearson,-0.0030582094174035723,-0.003058218951572584,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P33,1058,Mean three-pair coupling,spearman,-0.006945629427528899,-0.006945741120576699,TOF,included,True,0.5915468856947297,RVOT
+all_endothelial_structural_balanced,P40,5278,Arterial–matrix,pearson,-0.034790859474889184,-0.034804906675338754,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Arterial–matrix,spearman,-0.027779768429533058,-0.027786917766453735,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Arterial–plasticity transcripts,pearson,0.03681394205638763,0.03683058649178238,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Arterial–plasticity transcripts,spearman,0.033453146702560874,0.03346563437276213,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Matrix–plasticity transcripts,pearson,-0.01835805637022201,-0.018360119120592742,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Matrix–plasticity transcripts,spearman,-0.015734494400769905,-0.01573579307923974,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Mean three-pair coupling,pearson,-0.00544475929639669,-0.00544481310138304,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P40,5278,Mean three-pair coupling,spearman,-0.0033523462660846864,-0.0033523588243104495,HLHS,included,False,4.388090349075975,LV
+all_endothelial_structural_balanced,P64,2774,Arterial–matrix,pearson,0.026691862514941312,0.02669820414767702,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Arterial–matrix,spearman,0.026754938652708657,0.026761325362858725,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Arterial–plasticity transcripts,pearson,0.011342646802218293,0.01134313327158563,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Arterial–plasticity transcripts,spearman,0.01148207649673661,0.011482581128297508,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Matrix–plasticity transcripts,pearson,0.061412084995627884,0.061489464253761714,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Matrix–plasticity transcripts,spearman,0.052817052122456416,0.05286624803004229,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Mean three-pair coupling,pearson,0.033164766532129825,0.03317693389100812,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P64,2774,Mean three-pair coupling,spearman,0.0303607177792081,0.030370051507066176,HLHS,included,False,3.2965434633812456,RV
+all_endothelial_structural_balanced,P8,1166,Arterial–matrix,pearson,-0.110273879335996,-0.11072415811767788,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Arterial–matrix,spearman,-0.08172956375412742,-0.08191227349573613,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Arterial–plasticity transcripts,pearson,-0.01382022392509958,-0.01382110390703832,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Arterial–plasticity transcripts,spearman,-0.016330783695979425,-0.016332235705041907,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Matrix–plasticity transcripts,pearson,0.13690211805653077,0.13776714846585492,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Matrix–plasticity transcripts,spearman,0.13661032754051747,0.1374697967980377,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Mean three-pair coupling,pearson,0.004407266944459805,0.004407295480379571,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,P8,1166,Mean three-pair coupling,spearman,0.013074350818714048,0.01307509586575322,HLHS,included,True,0.1748802190280629,RV
+all_endothelial_structural_balanced,UK1,460,Arterial–matrix,pearson,-0.18582561592349953,-0.18800997957934082,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Arterial–matrix,spearman,-0.15665501008162078,-0.15795569574362253,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Arterial–plasticity transcripts,pearson,-0.017573176202202195,-0.017574985499842745,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Arterial–plasticity transcripts,spearman,0.01049339223884719,0.010493777411247298,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Matrix–plasticity transcripts,pearson,0.08424018040505873,0.08444030074320363,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Matrix–plasticity transcripts,spearman,0.07142521631872595,0.07154704950561197,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Mean three-pair coupling,pearson,-0.04035961942342163,-0.04038155477865998,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK1,460,Mean three-pair coupling,spearman,-0.025299556393272245,-0.025304956275587754,Donor,included,False,9.599760438056126,LV
+all_endothelial_structural_balanced,UK2,619,Arterial–matrix,pearson,-0.02643285825923221,-0.026439017018706136,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Arterial–matrix,spearman,-0.007262251279682383,-0.007262378954810931,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Arterial–plasticity transcripts,pearson,0.03599977368738345,0.036015337498144916,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Arterial–plasticity transcripts,spearman,0.03440183924143434,0.034415420257777336,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Matrix–plasticity transcripts,pearson,-0.02172287825618827,-0.0217262961127759,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Matrix–plasticity transcripts,spearman,-0.02083905271375642,-0.020842070064837098,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Mean three-pair coupling,pearson,-0.0040499697346825445,-0.00404999187777904,Donor,included,False,3.758213552361396,LV
+all_endothelial_structural_balanced,UK2,619,Mean three-pair coupling,spearman,0.0021036539762261065,0.0021036570793764356,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,13_198,5548,Arterial–matrix,pearson,-0.14362483622683989,-0.1446248111156696,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Arterial–matrix,spearman,-0.11115236714903098,-0.1116135475893993,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Arterial–plasticity transcripts,pearson,0.1426197838101659,0.14359874058105657,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Arterial–plasticity transcripts,spearman,0.13293574763173743,0.1337272332976081,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Matrix–plasticity transcripts,pearson,-0.09482113789538305,-0.09510686133192213,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Matrix–plasticity transcripts,spearman,-0.09285692924655194,-0.09312520199846971,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Mean three-pair coupling,pearson,-0.032033347021689744,-0.03204431062217839,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_198,5548,Mean three-pair coupling,spearman,-0.02366608561583661,-0.02367050543008697,Donor,included,False,11.0,LV;RV
+blood_endothelial_structural_balanced,13_235,2034,Arterial–matrix,pearson,0.0008214113667307559,0.0008214115514708013,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Arterial–matrix,spearman,0.009673082419666437,0.009673384135285163,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Arterial–plasticity transcripts,pearson,0.07673978875004492,0.07689096335249312,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Arterial–plasticity transcripts,spearman,0.06916986320979722,0.06928049468292381,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Matrix–plasticity transcripts,pearson,0.000373033918926666,0.00037303393622975924,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Matrix–plasticity transcripts,spearman,-0.005028628451008733,-0.005028670838135549,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Mean three-pair coupling,pearson,0.02602259327263048,0.026028469613397897,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,13_235,2034,Mean three-pair coupling,spearman,0.024636749592652992,0.02464173599335781,Donor,included,False,11.0,RV
+blood_endothelial_structural_balanced,P26,105,Arterial–matrix,pearson,-0.18759455105135805,-0.18984280888477723,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Arterial–matrix,spearman,-0.13947750362844702,-0.1403926737454439,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Arterial–plasticity transcripts,pearson,0.07441158965002964,0.07454938883488677,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Arterial–plasticity transcripts,spearman,0.07864399751192204,0.0788067363712255,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Matrix–plasticity transcripts,pearson,0.09837268695081575,0.09869186584382932,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Matrix–plasticity transcripts,spearman,0.09344806137258967,0.09372150852521091,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Mean three-pair coupling,pearson,-0.005533794914058605,-0.005533851402020382,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P26,105,Mean three-pair coupling,spearman,0.010711447362449274,0.010711857050330837,TOF,included,False,0.2582135523613963,RVOT
+blood_endothelial_structural_balanced,P28,642,Arterial–matrix,pearson,-0.009099351243441104,-0.009099602392531669,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Arterial–matrix,spearman,-0.006191112893567355,-0.006191191996922318,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Arterial–plasticity transcripts,pearson,0.12780578031045467,0.12850855427352947,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Arterial–plasticity transcripts,spearman,0.1475330250546688,0.14861762609219895,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Matrix–plasticity transcripts,pearson,0.04364842950362735,0.043676180683407326,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Matrix–plasticity transcripts,spearman,0.028410613612376064,0.028418261314864687,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Mean three-pair coupling,pearson,0.05430822424956095,0.05436171085480171,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P28,642,Mean three-pair coupling,spearman,0.056886748602803315,0.05694823180338044,TOF,included,True,0.6913073237508556,RVOT
+blood_endothelial_structural_balanced,P33,949,Arterial–matrix,pearson,-0.03339578771898603,-0.03340821123633008,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Arterial–matrix,spearman,-0.03780601481695729,-0.037824042258980166,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Arterial–plasticity transcripts,pearson,0.07555706857959081,0.07570134493879735,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Arterial–plasticity transcripts,spearman,0.06477576943786685,0.06486659576361763,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Matrix–plasticity transcripts,pearson,-0.01995752407544232,-0.01996017442121057,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Matrix–plasticity transcripts,spearman,-0.020969525760487037,-0.020972600152005742,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Mean three-pair coupling,pearson,0.007444182247286024,0.007444319760418899,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P33,949,Mean three-pair coupling,spearman,0.0020233150231856265,0.002023317784210573,TOF,included,True,0.5915468856947297,RVOT
+blood_endothelial_structural_balanced,P40,5100,Arterial–matrix,pearson,-0.025118508212922438,-0.0251237929663085,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Arterial–matrix,spearman,-0.019966761833309102,-0.019969415861672703,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Arterial–plasticity transcripts,pearson,0.03738256933028792,0.03739999745035163,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Arterial–plasticity transcripts,spearman,0.03410899694731447,0.03412223392684044,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Matrix–plasticity transcripts,pearson,-0.023631981834256053,-0.02363638256437609,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Matrix–plasticity transcripts,spearman,-0.020257351120570567,-0.020260122740408486,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Mean three-pair coupling,pearson,-0.0037867079272222,-0.0037867260267776537,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P40,5100,Mean three-pair coupling,spearman,-0.0020357654127713598,-0.00203576822508025,HLHS,included,False,4.388090349075975,LV
+blood_endothelial_structural_balanced,P64,2653,Arterial–matrix,pearson,0.03908918430514287,0.03910911153695954,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Arterial–matrix,spearman,0.039614888617346085,0.03963563122067614,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Arterial–plasticity transcripts,pearson,0.02043280040249297,0.020435644675191083,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Arterial–plasticity transcripts,spearman,0.020039697939900056,0.020042381163844467,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Matrix–plasticity transcripts,pearson,0.05413557961996417,0.05418855715034206,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Matrix–plasticity transcripts,spearman,0.04459638724979412,0.044625987572885516,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Mean three-pair coupling,pearson,0.03789295228823017,0.03791110445416423,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P64,2653,Mean three-pair coupling,spearman,0.03475399741003882,0.034767999985802045,HLHS,included,False,3.2965434633812456,RV
+blood_endothelial_structural_balanced,P8,1096,Arterial–matrix,pearson,-0.13394191305634376,-0.1347516393078491,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Arterial–matrix,spearman,-0.10756759328625025,-0.10798537817913749,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Arterial–plasticity transcripts,pearson,-0.007519086992535285,-0.007519228698720272,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Arterial–plasticity transcripts,spearman,-0.008036616575352493,-0.008036789602927807,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Matrix–plasticity transcripts,pearson,0.137383645422222,0.13825790609467326,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Matrix–plasticity transcripts,spearman,0.13875506706394083,0.13965597965452478,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Mean three-pair coupling,pearson,-0.001337653172803105,-0.0013376539706320412,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,P8,1096,Mean three-pair coupling,spearman,0.007877774321623995,0.007877937290819828,HLHS,included,True,0.1748802190280629,RV
+blood_endothelial_structural_balanced,UK1,427,Arterial–matrix,pearson,-0.16722613487553487,-0.16881162658530285,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Arterial–matrix,spearman,-0.13215249825905023,-0.1329299777398341,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Arterial–plasticity transcripts,pearson,-0.0021970691154685265,-0.0021970726506455075,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Arterial–plasticity transcripts,spearman,0.0243302930806842,0.02433509566564154,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Matrix–plasticity transcripts,pearson,0.026445258530120416,0.026451425963742524,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Matrix–plasticity transcripts,spearman,0.024431867750088702,0.024436730750797105,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Mean three-pair coupling,pearson,-0.04814849871694274,-0.04818575775740194,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK1,427,Mean three-pair coupling,spearman,-0.028045360682050727,-0.02805271710779848,Donor,included,False,9.599760438056126,LV
+blood_endothelial_structural_balanced,UK2,573,Arterial–matrix,pearson,-0.012742344675050202,-0.012743034389146967,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Arterial–matrix,spearman,0.00514419815913878,0.005144243536444901,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Arterial–plasticity transcripts,pearson,0.028010488450431203,0.028017817460249294,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Arterial–plasticity transcripts,spearman,0.025993416620411897,0.025999273212254977,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Matrix–plasticity transcripts,pearson,-0.01083947400827018,-0.010839898563297591,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Matrix–plasticity transcripts,spearman,-0.011894056652069678,-0.011894617578131941,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Mean three-pair coupling,pearson,0.0014782937590692097,0.001478294835934912,Donor,included,False,3.758213552361396,LV
+blood_endothelial_structural_balanced,UK2,573,Mean three-pair coupling,spearman,0.00641621167430079,0.006416299723522646,Donor,included,False,3.758213552361396,LV
